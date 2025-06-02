@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ashwin</h1>
-<h3 align="center">Aspiring Frontend Web Developer | JavaScript • React • Tailwind • Bootstrap</h3>
+<h3 align="center">Aspiring Frontend Web Developer | JavaScript • React • Tailwind</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MODE-DARK-%23000000?style=flat-square&logo=github&logoColor=white" />
@@ -8,15 +8,12 @@
 ---
 
 🌱 **Currently Learning:**  
-JavaScript, React.js, Tailwind CSS, Material UI
-
-💻 **I’m Working On:**  
-Building responsive frontend projects and improving UI/UX design skills
+JavaScript, React, Tailwind CSS, Material UI
 
 🎯 **Goals for 2025:**  
-- Build professional React applications  
-- Master frontend libraries like Next.js and Framer Motion  
-- Contribute to open-source projects
+- Build professional React + Next.js applications  
+- Master animations with Framer Motion  
+- Deploy personal portfolio and contribute to open source
 
 📫 **Connect With Me:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-developer/)  
@@ -25,17 +22,34 @@ Building responsive frontend projects and improving UI/UX design skills
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" alt="Material UI" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+
+#### 🚀 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+</p>
+
+#### ⚛️ Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40" alt="Material UI" />
+  <img src="https://www.svgrepo.com/show/354122/framer.svg" width="40" alt="Framer Motion" />
+</p>
+
+#### 🎨 Styling
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
+</p>
+
+#### 🧰 Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
 </p>
 
 ---
@@ -50,8 +64,8 @@ Building responsive frontend projects and improving UI/UX design skills
 ---
 
 ### 🚀 Projects & Contributions
-- [Portfolio Website](https://your-portfolio-link.com) *(update with your real link)*  
-- More awesome projects coming soon...
+- [Portfolio Website](https://your-portfolio-link.com) *(update with your link)*  
+- More projects coming soon...
 
 ---
 
