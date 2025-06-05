@@ -14,9 +14,9 @@ JavaScript, React, Tailwind CSS, Material UI
 - Learn React.js thoroughly and build dynamic UIs
 - Start learning TypeScript and Next.js
 - Master animations with Framer Motion (planned)
-- Deploy personal portfolio and contribute to open source
+- Deploy personal portfolio 
 - Explore UI/UX Design and Design Systems
-- Contribute to Open Source and Web Accessibility (a11y)
+- Contribute to Open Source 
 - Build and iterate on meaningful side projects
 - Learn full stack development
 
