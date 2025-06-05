@@ -12,7 +12,7 @@ JavaScript, React, Tailwind CSS, Material UI
 
 🎯 **Goals for 2025:**  
 • Learn React.js thoroughly and build dynamic UIs
-• Start learning TypeScript and Next.js
+- Start learning TypeScript and Next.js
 • Master animations with Framer Motion (planned)
 • Deploy personal portfolio and contribute to open source
 • Explore UI/UX Design and Design Systems
