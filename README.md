@@ -11,9 +11,15 @@
 JavaScript, React, Tailwind CSS, Material UI
 
 🎯 **Goals for 2025:**  
-- Build professional React + Next.js applications  
-- Master animations with Framer Motion  
-- Deploy personal portfolio and contribute to open source
+• Learn React.js thoroughly and build dynamic UIs
+• Start learning TypeScript and Next.js
+• Master animations with Framer Motion (planned)
+• Deploy personal portfolio and contribute to open source
+• Explore UI/UX Design and Design Systems
+• Contribute to Open Source and Web Accessibility (a11y)
+• Build and iterate on meaningful side projects
+• Learn full stack development
+
 
 📫 **Connect With Me:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-developer/)  
